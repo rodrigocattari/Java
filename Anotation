@@ -1,0 +1,4 @@
+//leitorScanner.next().charAt(0); Usado quando quer receber apenas uma letra.
+
+//super() é utilizado quando preciso acessar um atributo de uma classe superior
+//this.nome do atributo é utilizado para acessar atributos da mesma classe
